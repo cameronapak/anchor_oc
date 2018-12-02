@@ -1,0 +1,44 @@
+baseURL = "https://anchoroc.com/"
+title = "Anchor Ministries"
+theme = "clean"
+canonifyurls = true
+paginate = 10
+languageCode = "en-us"
+keywords = "anchor student ministries, anchor oc, anchor oklahoma christian"
+# copyright = "Code released under the Apache 2.0 license."
+# googleAnalytics = "UA-123-45" # delete or comment to disable Google Analytics JS generation
+
+[author]
+  name = "Cameron Pak"
+
+[params]
+  DateForm = "Mon, Jan 2, 2006"
+  Description = ""
+  Author = "Anchor OC"
+  email = "anchoruco@gmail.com" #Remove this line if you would prefer not to use an email button in the footer.
+  postSummariesFrontPage = 4 #Number of post summaries to show on front page, comment out to allow default(4)
+  showReadTime = true #set to false to exclude read time from header of post
+
+[[params.social]]
+  title = "instagram"
+  url = "#"
+[[params.social]]
+  title = "facebook"
+  url = "#"
+
+# [[menu.main]]
+#   name = "home"
+#   url = "/"
+#   weight = -200
+[[menu.main]]
+  name = "mission"
+  url = "/#mission"
+  weight = -180
+[[menu.main]]
+  name = "events"
+  url = "/#events"
+  weight = -160
+[[menu.main]]
+  name = "contact"
+  url = "/#contact"
+  weight = -140
