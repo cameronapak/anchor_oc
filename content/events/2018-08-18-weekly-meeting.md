@@ -1,8 +1,9 @@
 ---
 layout: blog
-title: Event Name
-when: Date
-time: Time
-where: Enter Location
-what: This is a description of the event we are having. Try to keep the description under 140 characters.
+title: Donuts & Hang Out
+when: 1/28/19
+time: 8PM
+where: Library
+what: Come meet and get to know what Anchor is at OC!
 ---
+
